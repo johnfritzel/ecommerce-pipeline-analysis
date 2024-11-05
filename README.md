@@ -1,6 +1,6 @@
 # E-commerce Analysis with Data Pipeline
 
-This project provides a comprehensive data processing pipeline for cleaning, analyzing, and importing e-commerce dataset into a MySQL database. The pipeline includes data profiling, cleaning, and exploratory data analysis capabilities.
+This project provides a comprehensive data processing pipeline for cleaning, analyzing, and importing e-commerce dataset from [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) into a MySQL database. The pipeline includes data profiling, cleaning, and exploratory data analysis capabilities.
 
 &nbsp;
 ## Project Structure
